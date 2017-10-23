@@ -1,0 +1,17 @@
+C:\Users\carlo\Desktop\NB\NBautomation\NBautoFramework\obj\Debug\NBautoFramework.csprojResolveAssemblyReference.cache
+C:\Users\carlo\Desktop\NB\NBautomation\NBautoFramework\obj\Debug\NBautoFramework.csproj.CoreCompileInputs.cache
+C:\Users\carlo\Desktop\NB\NBautomation\NBautoFramework\bin\Debug\Drivers\chromedriver.exe
+C:\Users\carlo\Desktop\NB\NBautomation\NBautoFramework\bin\Debug\Drivers\IEDriverServer.exe
+C:\Users\carlo\Desktop\NB\NBautomation\NBautoFramework\bin\Debug\Drivers\MicrosoftWebDriver.exe
+C:\Users\carlo\Desktop\NB\NBautomation\NBautoFramework\bin\Debug\NBautoFramework.dll.config
+C:\Users\carlo\Desktop\NB\NBautomation\NBautoFramework\bin\Debug\NBautoFramework.dll
+C:\Users\carlo\Desktop\NB\NBautomation\NBautoFramework\bin\Debug\NBautoFramework.pdb
+C:\Users\carlo\Desktop\NB\NBautomation\NBautoFramework\bin\Debug\Newtonsoft.Json.dll
+C:\Users\carlo\Desktop\NB\NBautomation\NBautoFramework\bin\Debug\TechTalk.SpecFlow.dll
+C:\Users\carlo\Desktop\NB\NBautomation\NBautoFramework\bin\Debug\WebDriver.dll
+C:\Users\carlo\Desktop\NB\NBautomation\NBautoFramework\bin\Debug\WebDriver.Support.dll
+C:\Users\carlo\Desktop\NB\NBautomation\NBautoFramework\bin\Debug\Newtonsoft.Json.xml
+C:\Users\carlo\Desktop\NB\NBautomation\NBautoFramework\bin\Debug\WebDriver.xml
+C:\Users\carlo\Desktop\NB\NBautomation\NBautoFramework\bin\Debug\WebDriver.Support.xml
+C:\Users\carlo\Desktop\NB\NBautomation\NBautoFramework\obj\Debug\NBautoFramework.dll
+C:\Users\carlo\Desktop\NB\NBautomation\NBautoFramework\obj\Debug\NBautoFramework.pdb
